@@ -1,0 +1,32 @@
+#slider {
+ margin: 0 auto;
+ width:1160px;
+ height: 335px;
+ }
+
+#slider_two {
+ margin: 0 auto;
+ width:110px;
+ height: 110px;
+ }
+
+.pics {
+
+  width: 1160px;
+  margin: 0 auto; }
+ 
+#slideshow {
+  height:335px;
+  z-index: 0; }
+
+.slides {
+  z-index: 1; }
+
+#autochange {
+ z-index: 1; }
+ 
+#col2 {
+
+z-index:1; }  
+
+

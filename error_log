@@ -1,0 +1,11 @@
+[12-Nov-2012 10:18:24] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'spring12'@'springfest.securehostdns.com' (using password: YES) in /home/mun/public_html/email_check_exec.php on line 200
+[12-Nov-2012 10:22:18] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'spring12'@'springfest.securehostdns.com' (using password: YES) in /home/mun/public_html/email_check_exec.php on line 200
+[12-Nov-2012 11:32:08] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'spring12'@'springfest.securehostdns.com' (using password: YES) in /home/mun/public_html/email_check_exec.php on line 200
+[12-Nov-2012 15:48:32] PHP Parse error:  syntax error, unexpected '=', expecting ';' in /home/mun/public_html/email_check_exec.php on line 215
+[12-Nov-2012 15:49:12] PHP Parse error:  syntax error, unexpected '=', expecting ';' in /home/mun/public_html/email_check_exec.php on line 215
+[12-Nov-2012 16:00:03] PHP Warning:  Header may not contain more than a single header, new line detected. in /home/mun/public_html/email_check_exec.php on line 221
+[12-Nov-2012 16:03:40] PHP Warning:  Header may not contain more than a single header, new line detected. in /home/mun/public_html/email_check_exec.php on line 222
+[12-Nov-2012 16:03:47] PHP Warning:  Header may not contain more than a single header, new line detected. in /home/mun/public_html/email_check_exec.php on line 222
+[12-Nov-2012 19:10:01] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mun/public_html/email_check_exec.php:251) in /home/mun/public_html/email_check_exec.php on line 254
+[13-Nov-2012 00:04:45] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'spring12'@'springfest.securehostdns.com' (using password: YES) in /home/mun/public_html/email_check.php on line 203
+[13-Nov-2012 00:21:47] PHP Parse error:  syntax error, unexpected $end in /home/mun/public_html/email_check.php on line 259

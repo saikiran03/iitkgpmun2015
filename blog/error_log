@@ -1,0 +1,10 @@
+[27-Dec-2012 00:56:11] PHP Fatal error:  Call to undefined function register_() in /home/mun/public_html/blog/wp-content/themes/academicatheme/functions.php on line 211
+[27-Dec-2012 00:56:37] PHP Fatal error:  Call to undefined function register_() in /home/mun/public_html/blog/wp-content/themes/academicatheme/functions.php on line 211
+[27-Dec-2012 00:56:40] PHP Fatal error:  Call to undefined function register_() in /home/mun/public_html/blog/wp-content/themes/academicatheme/functions.php on line 211
+[27-Dec-2012 00:57:08] PHP Fatal error:  Call to undefined function register_() in /home/mun/public_html/blog/wp-content/themes/academicatheme/functions.php on line 211
+[27-Dec-2012 00:57:12] PHP Fatal error:  Call to undefined function register_() in /home/mun/public_html/blog/wp-content/themes/academicatheme/functions.php on line 211
+[18-Jan-2013 18:48:49] PHP Parse error:  syntax error, unexpected ')' in /home/mun/public_html/blog/wp-content/themes/twentytwelve/footer.php on line 17
+[18-Jan-2013 18:49:36] PHP Parse error:  syntax error, unexpected ')' in /home/mun/public_html/blog/wp-content/themes/twentytwelve/footer.php on line 17
+[18-Jan-2013 18:49:54] PHP Parse error:  syntax error, unexpected ')' in /home/mun/public_html/blog/wp-content/themes/twentytwelve/footer.php on line 17
+[18-Jan-2013 18:52:41] PHP Parse error:  syntax error, unexpected T_STRING in /home/mun/public_html/blog/wp-content/themes/twentytwelve/footer.php on line 17
+[18-Jan-2013 18:53:24] PHP Parse error:  syntax error, unexpected T_STRING in /home/mun/public_html/blog/wp-content/themes/twentytwelve/footer.php on line 17
