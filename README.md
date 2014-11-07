@@ -1,2 +1,1 @@
-iitkgpmun2015
-=============
+IIT Kharagpur MUN
